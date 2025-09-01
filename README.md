@@ -5,19 +5,20 @@ This project is an interactive HR Analytics Dashboard that provides insights int
 
 🚀 Features
 KPIs: Total Employees, Attrition Count, Attrition Rate (16.1%), Avg Age, Avg Salary, Avg Years at Company
-📊 Attrition Insights
-📌 By Education –Life Sciences, Medical, Marketing, etc.
-📌 By Age Group – 18–25, 26–35, 36–45, etc.
-📌 By Salary Slabs – Attrition trends based on salary levels.
-📌 By Years at Company – Tenure-based attrition analysis.
-📌 By Job Role – Sales Executive, Laboratory Technician, Research Scientist, etc.
-📌 By Gender – Gender-wise breakdown of attrition.
-📌 By Department – HR, Sales, R&D (with filtering options).
+## 📊 Attrition Insights
+- 📌 **By Education** – Life Sciences, Medical, Marketing, etc.  
+- 📌 **By Age Group** – 18–25, 26–35, 36–45, etc.  
+- 📌 **By Salary Slabs** – Attrition trends based on salary levels.  
+- 📌 **By Years at Company** – Tenure-based attrition analysis.  
+- 📌 **By Job Role** – Sales Executive, Laboratory Technician, Research Scientist, etc.  
+- 📌 **By Gender** – Gender-wise breakdown of attrition.  
+- 📌 **By Department** – HR, Sales, R&D (with filtering options).  
+
 📉 Visuals Used
-📌 Donut Charts – For categorical distributions (Education, Gender, Department).
-📌 Bar Graphs – For role-based and salary slab attrition.
-📌 Line Charts – For attrition trend analysis over time.
-📌 KPI Cards – To highlight total attrition and key metrics.
+-📌 Donut Charts – For categorical distributions (Education, Gender, Department).
+-📌 Bar Graphs – For role-based and salary slab attrition.
+-📌 Line Charts – For attrition trend analysis over time.
+-📌 KPI Cards – To highlight total attrition and key metrics.
 
 
 
