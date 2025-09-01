@@ -15,12 +15,10 @@ KPIs: Total Employees, Attrition Count, Attrition Rate (16.1%), Avg Age, Avg Sal
 - 📌 **By Department** – HR, Sales, R&D (with filtering options).  
 
 📉 Visuals Used
--📌 Donut Charts – For categorical distributions (Education, Gender, Department).
--📌 Bar Graphs – For role-based and salary slab attrition.
--📌 Line Charts – For attrition trend analysis over time.
--📌 KPI Cards – To highlight total attrition and key metrics.
-
-
+-📌 **Donut Charts – For categorical distributions (Education, Gender, Department).
+-📌 **Bar Graphs – For role-based and salary slab attrition.
+-📌 **Line Charts – For attrition trend analysis over time.
+-📌 **KPI Cards – To highlight total attrition and key metrics.
 
 🛠️ Tools & Technologies
 Data Visualization: Power BI
