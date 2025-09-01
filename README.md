@@ -2,7 +2,6 @@
 This project is an interactive HR Analytics Dashboard that provides insights into employee attrition, workforce demographics, salary distribution, and job roles. It enables HR teams and management to identify key trends, high-risk groups, and workforce patterns, supporting data-driven decisions for employee retention and workforce planning.
 
 
-
 🚀 Features
 KPIs: Total Employees, Attrition Count, Attrition Rate (16.1%), Avg Age, Avg Salary, Avg Years at Company
 ## 📊 Attrition Insights
@@ -62,8 +61,4 @@ Employees with salary ≤ 5K experience maximum attrition.
 Life Sciences and Medical educational backgrounds dominate attrition cases.
 
 Job roles with the highest attrition: Laboratory Technicians, Sales Executives, and Research Scientists.
-📈 Insights Derived
-The 26–35 age group shows the highest attrition.
-Employees with salary ≤ 5K experience maximum attrition.
-Life Sciences and Medical educational backgrounds dominate attrition cases.
-Job roles with the highest attrition: Laboratory Technicians, Sales Executives, and Research Scientists.
+
