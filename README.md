@@ -1,6 +1,8 @@
 # HR-Analytics-Dashboard
 This project is an interactive HR Analytics Dashboard that provides insights into employee attrition, workforce demographics, salary distribution, and job roles. It enables HR teams and management to identify key trends, high-risk groups, and workforce patterns, supporting data-driven decisions for employee retention and workforce planning.
 
+
+
 🚀 Features
 KPIs: Total Employees, Attrition Count, Attrition Rate (16.1%), Avg Age, Avg Salary, Avg Years at Company
 📊 Attrition Insights
@@ -16,6 +18,8 @@ KPIs: Total Employees, Attrition Count, Attrition Rate (16.1%), Avg Age, Avg Sal
 📌 Bar Graphs – For role-based and salary slab attrition.
 📌 Line Charts – For attrition trend analysis over time.
 📌 KPI Cards – To highlight total attrition and key metrics.
+
+
 
 🛠️ Tools & Technologies
 Data Visualization: Power BI
